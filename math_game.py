@@ -2,7 +2,7 @@ import random as r
 from colorama import Fore, init
 init(autoreset=True)
 print("Dastur:Random matematika")
-print("iltimos faqat son kirting agar harf kirtsaz dastur ishlamaydi")
+
 print("o`yinda 5ta xato qilasaz tugaydi")
 def math_r():
     n = 0
